@@ -34,3 +34,29 @@ Generates a personalized open-source manifesto.
 ## How to Run Scripts
 
 ### Step 1: Make scripts executable
+chmod +x script1.sh
+chmod +x script2.sh
+chmod +x script3.sh
+chmod +x script4.sh
+chmod +x script5.sh
+
+### Step 2: Run scripts
+./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh /var/log/dpkg.log error
+./script5.sh
+
+---
+
+## Requirements
+- Ubuntu Linux
+- Bash shell
+- Python installed
+
+---
+
+## Conclusion
+This project helped in understanding open-source concepts and Linux shell scripting. It provided hands-on experience in working with real-world tools, version control, and automation techniques. Through this project, I also learned how to navigate and manage files efficiently using the Linux command line. Additionally, it enhanced my problem-solving skills and understanding of collaborative development in open-source environments. Overall, the project built a strong foundation for further exploration in software development and system-level operations.
+
+
